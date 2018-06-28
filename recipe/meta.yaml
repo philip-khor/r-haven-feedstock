@@ -1,4 +1,4 @@
-{% set version = "1.1.1" %}
+{% set version = "1.1.2" %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -12,7 +12,7 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/haven_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/haven/haven_{{ version }}.tar.gz
-  sha256: 5f7bf6dbee431b4e64771d9d97ee2c3da5b8f66a5e81fd1ec78a236eb3de6cba
+  sha256: 0a077b20bf8ef2efb73c2d4b4e1de57da7d4a525b27386320f0f7f5a9cece85e
 
 build:
   number: 0
