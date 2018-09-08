@@ -53,7 +53,7 @@ test:
     - "\"%R%\" -e \"library('haven')\""  # [win]
 
 about:
-  home: http://haven.tidyverse.org, https://github.com/tidyverse/haven, https://github.com/WizardMac/ReadStat
+  home: http://haven.tidyverse.org
   license: MIT
   summary: Import foreign statistical formats into R via the embedded 'ReadStat' C library, <https://github.com/WizardMac/ReadStat>.
   license_family: MIT
