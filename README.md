@@ -1,7 +1,7 @@
 About r-haven
 =============
 
-Home: http://haven.tidyverse.org, https://github.com/tidyverse/haven, https://github.com/WizardMac/ReadStat
+Home: http://haven.tidyverse.org
 
 Package license: MIT
 
